@@ -37,7 +37,7 @@ python Chatbot_UG.py
 ## Créditos
 
 Desarrollado por Roberto Alvarez y compañeros  
-Proyecto final parcial 2 para el curso de CDDEIA-ELMA 4-1, PLN/IA.
+Proyecto final parcial 2 - GRUPO 3 para el curso de CDDEIA-ELMA 4-1, PLN/IA.
 
 # Chatbot_UG
  

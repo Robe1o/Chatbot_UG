@@ -238,11 +238,6 @@ clf.fit(X, labels)
 # Diccionario de respuestas
 respuestas = {
     "preguntar_requisitos_admision": "Para el proceso de admisión debes tener tu cédula, certificado de votación actualizado, título de bachiller y estar registrado en la plataforma de admisión.",
-    "info_proceso_admision": "Puedes ver toda la información oficial sobre el proceso de admisión en https://admision.ug.edu.ec/admision/. Allí encontrarás guías, fechas y requisitos actualizados.",
-    "info_general_ug": "La Universidad de Guayaquil es una de las instituciones más grandes y antiguas de Ecuador, fundada en 1883. Cuenta con más de 80,000 estudiantes y una amplia oferta académica.",
-    "horarios_atencion": "El horario de atención de la oficina de admisión es de lunes a viernes de 08:00 a 17:00. Te recomendamos consultar la web oficial para horarios especiales.",
-    "ubicacion_ug": "La Universidad de Guayaquil se encuentra en Av. Delta y Av. Kennedy, Guayaquil, Ecuador. Puedes ver la ubicación en Google Maps: https://goo.gl/maps/UGoficial.",
-    "contacto_facultad": "Puedes encontrar los contactos de todas las facultades en https://www.ug.edu.ec/facultades/. Allí están los correos y teléfonos oficiales de cada facultad.",
     "consultar_fechas_procesos": "Las fechas de inscripción y nivelación se publican en la página oficial de admisiones UG: https://admision.ug.edu.ec/admision/ y https://admision.ug.edu.ec/nivelacion/.",
     "explicar_creacion_cuenta": "Para crear tu cuenta ingresa a https://admision.ug.edu.ec/admision/, selecciona 'Registrarse' y completa los datos solicitados.",
     "consultar_cupos_carrera": "Los cupos por carrera se publican después del proceso de asignación. Consulta la página oficial o tu cuenta de admisión.",
@@ -252,10 +247,10 @@ respuestas = {
     "consultar_requisitos_matricula": "Para matricularte tras nivelación debes presentar cédula, certificado de votación, título de bachiller y aprobar asignaturas.",
     "saludar": "¡Hola! Soy el asistente virtual de admisiones UG. ¿En qué puedo ayudarte hoy?",
     "consultar_becas": "La UG ofrece becas y ayudas económicas según el rendimiento académico y situación socioeconómica. Consulta https://www.ug.edu.ec/becas/ para más información.",
-    "consultar_contacto_soporte": "Puedes contactar a soporte de admisión al correo soporte.admision@ug.edu.ec o al teléfono (04) 1234-5678.",
+    "consultar_contacto_soporte": "Puedes contactar a soporte de admisión al correo soporte.admision@ug.edu.ec o atencionalusuario@ug.edu.ec o al teléfono (04) 228-4505.",
     "consultar_proceso_apelacion": "El proceso de apelación se realiza en línea tras la publicación de resultados. Ingresa a tu cuenta y sigue las instrucciones en la sección de apelaciones.",
     "consultar_examen_ingreso": "El examen de ingreso evalúa conocimientos en matemáticas, lengua, ciencias y razonamiento. Consulta el temario oficial en la web de admisión.",
-    "consultar_carreras": "La UG ofrece carreras en áreas de salud, ingeniería, ciencias sociales, educación, administración y más. Consulta la lista completa en https://admision.ug.edu.ec/oferta-ug/.",
+    "consultar_carreras": "La UG ofrece carreras en áreas de salud, ingeniería, ciencias sociales, educación, economía y más. Consulta la lista completa en https://admision.ug.edu.ec/oferta-ug/.",
     "fallback": "Lo siento, no entendí tu consulta. ¿Podrías reformularla?",
     "agradecer": [
         "Es un placer ayudarte, si tienes más preguntas no dudes en consultar.",
